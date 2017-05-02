@@ -19,9 +19,7 @@ Open up the terminal on your mac / linux Operating System. If you type in:
 ```bash 
 diskutil list
 ```
-You can see the list of all the volumes that are connected to your computer. 
-Now, by using the `diskutil` command we can *format, partition and also unmount* specific disks. 
-On the list you will see something like this: 
+You can see the list of all the volumes that are connected to your computer. It will look something like this: 
 ```bash 
 /dev/disk0 (internal, physical):
    #:                       TYPE NAME                    SIZE       IDENTIFIER
